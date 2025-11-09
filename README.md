@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🌐 One Dream Esports — Public Template / Dumped Build
+# 🌐 One Dream Esports — Dumped 
 
 **Live Demo:** https://one-dream-esports.vercel.app/  
 **Repo:** https://github.com/ofcyouryadav/One-Dream-Esports/git
