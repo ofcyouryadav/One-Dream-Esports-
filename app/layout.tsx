@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "One Dream Esports - Premier Esports Organization in India",
   description:
     "India's leading esports organization competing across multiple gaming titles. Join the dream and become part of our championship-winning teams.",
-  generator: "v0.app",
+  generator: "Yadav.Dev",
   icons: {
     icon: [
       {
