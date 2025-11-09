@@ -23,7 +23,7 @@ Agar tum isse use kar rahe ho, **bindaas use karo**, koi credit-wedit nahi chahi
 
 **This is a shit website made by Yadav.Dev.**
 
-**Pehle ye useless tha — ab maine isko thoda vaidav (advance) bana diya.**
+**Pehle ye useless tha — ab maine isko thoda (advance) bana diya.**
 
 **Leak karke dump kar diya — agar tum ise use kar rahe ho to bindaas use karo.**
 
